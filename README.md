@@ -1,0 +1,2 @@
+# template-everything
+Templating examples
